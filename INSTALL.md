@@ -13,7 +13,7 @@
 	
 	Open Docker desktop and check for **my_assesment** project having 5 containers as below
 
-	  ![docker-desktop](https://github.com/projectforyou/project1/blob/main/pictures/docker-desktop-containers.png)
+	  ![docker-desktop](https://github.com/ProjectsForDataChapter/data_engineering_takehome1/blob/main/pictures/docker-desktop-containers.png)
 
 3. Spin-up Spark cluster: 
 	a. Open shell and run the below lines
@@ -26,5 +26,6 @@
 	
    	Validate if Spark Cluster is up and running in the Spark Master UI with 2 worker nodes -
 	
-   	![spark-master-ui](https://github.com/projectforyou/project1/blob/main/pictures/spark-master-ui.png)
+   	![spark-master-ui](https://github.com/ProjectsForDataChapter/data_engineering_takehome1/blob/main/pictures/spark-master-ui.png)
+
 
